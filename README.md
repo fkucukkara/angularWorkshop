@@ -50,3 +50,6 @@ Before you begin, ensure you have the following installed on your system:
 
 5. Access the Application: Open your browser and navigate to `http://localhost:4200`.
 
+## 📚 Learn More
+
+For a step-by-step, interactive explanation of this application, visit the official Angular tutorial: **[Your First App](https://angular.dev/tutorials/first-app)**. This tutorial provides an excellent guide to understanding the fundamental concepts used in this application.
