@@ -50,3 +50,7 @@ Before you begin, ensure you have the following installed on your system:
 
 5. Access the Application: Open your browser and navigate to `http://localhost:4200`.
 
+## License
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
+This project is licensed under the MIT License, which allows you to freely use, modify, and distribute the code. See the [`LICENSE`](LICENSE) file for full details.
