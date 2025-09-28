@@ -29,8 +29,8 @@ Before you begin, ensure you have the following installed on your system:
 
 1. **Clone the Repository**:
 ```bash
-    git clone <repository-url>
-   cd <repository-directory>
+    git clone https://github.com/fkucukkara/angularWorkshop.git
+    cd angularWorkshop
 ```
 
 2. Install Dependencies:
